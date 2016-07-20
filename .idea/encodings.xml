@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/edu/feicui/contactsupdate/utils/DialogUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/azy.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/btn_homeasup_default.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/check_rect_correct_checked.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/check_rect_correct_default.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/include_actionbar.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
